@@ -1,0 +1,14 @@
+C:\Users\Parham\Downloads\Csv\Csv\bin\Debug\Csv.exe.config
+C:\Users\Parham\Downloads\Csv\Csv\bin\Debug\Csv.exe
+C:\Users\Parham\Downloads\Csv\Csv\bin\Debug\Csv.pdb
+C:\Users\Parham\Downloads\Csv\Csv\obj\Debug\Csv.csproj.AssemblyReference.cache
+C:\Users\Parham\Downloads\Csv\Csv\obj\Debug\Csv.Form1.resources
+C:\Users\Parham\Downloads\Csv\Csv\obj\Debug\Csv.listmahsol.resources
+C:\Users\Parham\Downloads\Csv\Csv\obj\Debug\Csv.listmoshtari.resources
+C:\Users\Parham\Downloads\Csv\Csv\obj\Debug\Csv.Properties.Resources.resources
+C:\Users\Parham\Downloads\Csv\Csv\obj\Debug\Csv.sabtmahsol.resources
+C:\Users\Parham\Downloads\Csv\Csv\obj\Debug\Csv.sabtmoshtari.resources
+C:\Users\Parham\Downloads\Csv\Csv\obj\Debug\Csv.csproj.GenerateResource.cache
+C:\Users\Parham\Downloads\Csv\Csv\obj\Debug\Csv.csproj.CoreCompileInputs.cache
+C:\Users\Parham\Downloads\Csv\Csv\obj\Debug\Csv.exe
+C:\Users\Parham\Downloads\Csv\Csv\obj\Debug\Csv.pdb
